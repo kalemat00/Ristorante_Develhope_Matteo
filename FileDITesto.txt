@@ -1,6 +1,13 @@
 Ristorante Da Matteo
 
 ++++Menù a base di Pesce++++
+-
+++++Sashimi++++
+- Salmone - 2euro pz
+- Tonno - 2euro pz
+- Capasanta - 2euro pz
+- Branzino - 2euro pz
+- Gambero - 2euro pz
 
 -
 -Uramaki-
